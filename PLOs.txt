@@ -1,0 +1,52 @@
+Programs:
+BSCS,Computer Science
+PLOs:
+PLO1
+IICT,Intro to Computing
+CLO1
+CLO2
+CLO3
+CLO4
+CLO5
+PF,Intro to Programming
+CLO1
+CLO2
+PLOs:
+PLO2
+English I,Comprehension and Grammar
+CLO1
+CPS,Communication and Presentation Skills
+CPS
+presentation skills
+PLOs:
+PLO3
+PLOs:
+PLO5
+Programs:
+BSEE,Electrical Engineeering
+PLOs:
+PLO1
+OOP,Intro to Advance Programming
+CLO1
+CLO2
+CLO3
+CLO4
+CLO5
+DSA,Intro to Data Structures
+CLO1
+PLOs:
+PLO2
+English II,Communication and Presentation
+CLO1
+Programs:
+BSDS,Data Science
+PLOs:
+PLO1
+ITDS,Intro to Data Science
+CLO1
+CLO2
+CLO3
+PLOs:
+PLO2
+Programs:
+BSSE,Software Engineering

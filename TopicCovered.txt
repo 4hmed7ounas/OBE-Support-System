@@ -1,0 +1,36 @@
+Courses:
+IICT,Intro to Computing
+CLO1 - Topics: T1, T2, Evaluations: E1, Questions: Q1: 5, Q2: 5, Q3: 5, 
+CLO2 - Topics: Evaluations: 
+CLO3 - Topics: Evaluations: 
+CLO4 - Topics: Evaluations: 
+CLO5 - Topics: Evaluations: 
+Courses:
+PF,Intro to Programming
+CLO1 - Topics: Evaluations: 
+CLO2 - Topics: Evaluations: 
+Courses:
+English I,Comprehension and Grammar
+CLO1 - Topics: Evaluations: 
+Courses:
+CPS,Communication and Presentation Skills
+CPS - Topics: Evaluations: 
+presentation skills - Topics: Evaluations: 
+Courses:
+OOP,Intro to Advance Programming
+CLO1 - Topics: Evaluations: 
+CLO2 - Topics: Evaluations: 
+CLO3 - Topics: Evaluations: 
+CLO4 - Topics: Evaluations: 
+CLO5 - Topics: Evaluations: 
+Courses:
+DSA,Intro to Data Structures
+CLO1 - Topics: Evaluations: 
+Courses:
+English II,Communication and Presentation
+CLO1 - Topics: Evaluations: 
+Courses:
+ITDS,Intro to Data Science
+CLO1 - Topics: Evaluations: 
+CLO2 - Topics: Evaluations: 
+CLO3 - Topics: Evaluations: 

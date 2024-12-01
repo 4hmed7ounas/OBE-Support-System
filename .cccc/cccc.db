@@ -1,0 +1,223 @@
+CCCC_Module@AcademicOfficer@class@
+CCCC_ModExt@AcademicOfficer@class@main.cpp@423@definition@F??T0@LOC:12 COM:0 MVG:1@0@d@
+CCCC_Module@AcademicOfficier@class@
+CCCC_ModExt@AcademicOfficier@class@main.cpp@13@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Module@CLO@class@
+CCCC_ModExt@CLO@class@main.cpp@9@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@CLO@class@main.cpp@19@definition@F???2@LOC:10 COM:0 MVG:0@2@d@
+CCCC_Module@Course@class@
+CCCC_ModExt@Course@class@main.cpp@10@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Course@class@main.cpp@102@definition@F???2@LOC:9 COM:0 MVG:0@2@d@
+CCCC_Module@Evaluation@class@
+CCCC_ModExt@Evaluation@class@main.cpp@15@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Module@PLO@class@
+CCCC_ModExt@PLO@class@main.cpp@11@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@PLO@class@main.cpp@214@definition@F???2@LOC:8 COM:0 MVG:0@2@d@
+CCCC_Module@Program@class@
+CCCC_ModExt@Program@class@main.cpp@8@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Program@class@main.cpp@322@definition@F???2@LOC:9 COM:0 MVG:0@2@d@
+CCCC_Module@Questions@class@
+CCCC_ModExt@Questions@class@main.cpp@16@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Module@Teacher@class@
+CCCC_ModExt@Teacher@class@main.cpp@17@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Module@Topic@class@
+CCCC_ModExt@Topic@class@main.cpp@14@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Module@User@class@
+CCCC_ModExt@User@class@main.cpp@12@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@User@class@main.cpp@414@definition@F??T2@LOC:4 COM:0 MVG:0@2@d@
+CCCC_Module@anonymous@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@ofstream@@
+CCCC_Module@string@@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@AcademicOfficer@AcademicOfficer@@()@
+CCCC_MemExt@AcademicOfficer@AcademicOfficer@@()@main.cpp@443@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@AcademicOfficer@findProgramIndex@@(const string &)@
+CCCC_MemExt@AcademicOfficer@findProgramIndex@@(const string &)@main.cpp@430@definition@F??T2@LOC:11 COM:0 MVG:4@2@d@
+CCCC_Member@AcademicOfficer@setName@@(const string &)@
+CCCC_MemExt@AcademicOfficer@setName@@(const string &)@main.cpp@445@definition@F??T0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@CLO@@(string)@
+CCCC_MemExt@CLO@CLO@@(string)@main.cpp@29@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@addEvaluation@@(Evaluation *)@
+CCCC_MemExt@CLO@addEvaluation@@(Evaluation *)@main.cpp@53@definition@F???0@LOC:11 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@addTopic@@(Topic *)@
+CCCC_MemExt@CLO@addTopic@@(Topic *)@main.cpp@41@definition@F???0@LOC:11 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@getDescription@@()@
+CCCC_MemExt@CLO@getDescription@@()@main.cpp@31@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@getEvaluation@@(int)@
+CCCC_MemExt@CLO@getEvaluation@@(int)@main.cpp@87@definition@T???0@LOC:11 COM:0 MVG:4@0@d@
+CCCC_Member@CLO@getEvaluationCount@@()@
+CCCC_MemExt@CLO@getEvaluationCount@@()@main.cpp@70@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@getTopic@@(int)@
+CCCC_MemExt@CLO@getTopic@@(int)@main.cpp@75@definition@T???0@LOC:11 COM:0 MVG:4@0@d@
+CCCC_Member@CLO@getTopicCount@@()@
+CCCC_MemExt@CLO@getTopicCount@@()@main.cpp@65@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@setDescription@@(string)@
+CCCC_MemExt@CLO@setDescription@@(string)@main.cpp@36@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@~CLO@@()@
+CCCC_MemExt@CLO@~CLO@@()@main.cpp@99@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Course@Course@@(string,string)@
+CCCC_MemExt@Course@Course@@(string,string)@main.cpp@111@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Course@addCLO@@(CLO *)@
+CCCC_MemExt@Course@addCLO@@(CLO *)@main.cpp@133@definition@F???0@LOC:10 COM:0 MVG:3@0@d@
+CCCC_Member@Course@deleteCLO@@(int)@
+CCCC_MemExt@Course@deleteCLO@@(int)@main.cpp@168@definition@F???0@LOC:14 COM:0 MVG:5@0@d@
+CCCC_Member@Course@displayCLOs@@()@
+CCCC_MemExt@Course@displayCLOs@@()@main.cpp@144@definition@T???0@LOC:13 COM:0 MVG:3@0@d@
+CCCC_Member@Course@displayCLOsToFile@@(ofstream &)@
+CCCC_MemExt@Course@displayCLOsToFile@@(ofstream &)@main.cpp@197@definition@T???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@Course@getCLO@@(int)@
+CCCC_MemExt@Course@getCLO@@(int)@main.cpp@183@definition@T???0@LOC:8 COM:0 MVG:4@0@d@
+CCCC_Member@Course@getDescription@@()@
+CCCC_MemExt@Course@getDescription@@()@main.cpp@128@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Course@getName@@()@
+CCCC_MemExt@Course@getName@@()@main.cpp@123@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Course@getNumberOfCLOs@@()@
+CCCC_MemExt@Course@getNumberOfCLOs@@()@main.cpp@192@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Course@setDescription@@(const string &)@
+CCCC_MemExt@Course@setDescription@@(const string &)@main.cpp@118@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Course@setName@@(const string &)@
+CCCC_MemExt@Course@setName@@(const string &)@main.cpp@113@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Course@updateCLO@@(int,const string &)@
+CCCC_MemExt@Course@updateCLO@@(int,const string &)@main.cpp@158@definition@F???0@LOC:9 COM:0 MVG:4@0@d@
+CCCC_Member@Course@~Course@@()@
+CCCC_MemExt@Course@~Course@@()@main.cpp@205@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@PLO@@(string)@
+CCCC_MemExt@PLO@PLO@@(string)@main.cpp@222@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@PLO@addCourse@@(Course *)@
+CCCC_MemExt@PLO@addCourse@@(Course *)@main.cpp@234@definition@F???0@LOC:10 COM:0 MVG:3@0@d@
+CCCC_Member@PLO@deleteCourse@@(int)@
+CCCC_MemExt@PLO@deleteCourse@@(int)@main.cpp@262@definition@F???0@LOC:14 COM:0 MVG:5@0@d@
+CCCC_Member@PLO@displayCourses@@()@
+CCCC_MemExt@PLO@displayCourses@@()@main.cpp@245@definition@T???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@getCourse@@(int)@
+CCCC_MemExt@PLO@getCourse@@(int)@main.cpp@253@definition@T???0@LOC:8 COM:0 MVG:4@0@d@
+CCCC_Member@PLO@getDescription@@()@
+CCCC_MemExt@PLO@getDescription@@()@main.cpp@229@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@getNumberOfCourses@@()@
+CCCC_MemExt@PLO@getNumberOfCourses@@()@main.cpp@292@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@saveToFile@@(ofstream &,ofstream &)@
+CCCC_MemExt@PLO@saveToFile@@(ofstream &,ofstream &)@main.cpp@297@definition@F???0@LOC:15 COM:0 MVG:2@0@d@
+CCCC_Member@PLO@setDescription@@(const string &)@
+CCCC_MemExt@PLO@setDescription@@(const string &)@main.cpp@224@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@PLO@updateCourse@@(int,const string &,const string &)@
+CCCC_MemExt@PLO@updateCourse@@(int,const string &,const string &)@main.cpp@277@definition@F???0@LOC:14 COM:0 MVG:5@0@d@
+CCCC_Member@PLO@~PLO@@()@
+CCCC_MemExt@PLO@~PLO@@()@main.cpp@313@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@Program@Program@@(string,string)@
+CCCC_MemExt@Program@Program@@(string,string)@main.cpp@331@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Program@addPLO@@(PLO *)@
+CCCC_MemExt@Program@addPLO@@(PLO *)@main.cpp@342@definition@F???0@LOC:10 COM:0 MVG:3@0@d@
+CCCC_Member@Program@deletePLO@@(int)@
+CCCC_MemExt@Program@deletePLO@@(int)@main.cpp@370@definition@F???0@LOC:14 COM:0 MVG:5@0@d@
+CCCC_Member@Program@displayPLO@@()@
+CCCC_MemExt@Program@displayPLO@@()@main.cpp@353@definition@T???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@Program@getDescription@@()@
+CCCC_MemExt@Program@getDescription@@()@main.cpp@337@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Program@getName@@()@
+CCCC_MemExt@Program@getName@@()@main.cpp@333@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Program@getNumberOfPLOs@@()@
+CCCC_MemExt@Program@getNumberOfPLOs@@()@main.cpp@385@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Program@getPLO@@(int)@
+CCCC_MemExt@Program@getPLO@@(int)@main.cpp@361@definition@T???0@LOC:8 COM:0 MVG:4@0@d@
+CCCC_Member@Program@saveToFile@@(ofstream &,ofstream &)@
+CCCC_MemExt@Program@saveToFile@@(ofstream &,ofstream &)@main.cpp@390@definition@F???0@LOC:14 COM:0 MVG:2@0@d@
+CCCC_Member@Program@~Program@@()@
+CCCC_MemExt@Program@~Program@@()@main.cpp@405@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@User@display@@()@
+CCCC_MemExt@User@display@@()@main.cpp@418@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@User@getPassword@@()@
+CCCC_MemExt@User@getPassword@@()@main.cpp@420@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@User@getUsername@@()@
+CCCC_MemExt@User@getUsername@@()@main.cpp@419@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@User@login@@()@
+CCCC_MemExt@User@login@@()@main.cpp@417@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@addProgram@@(Program *)@
+CCCC_MemExt@anonymous@addProgram@@(Program *)@main.cpp@1226@definition@F??T0@LOC:12 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@display@@()@
+CCCC_MemExt@anonymous@display@@()@main.cpp@497@definition@F??T0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@anonymous@generateCourseListForPLO@@()@
+CCCC_MemExt@anonymous@generateCourseListForPLO@@()@main.cpp@1098@definition@F??T0@LOC:36 COM:0 MVG:7@0@d@
+CCCC_Member@anonymous@getPassword@@()@
+CCCC_MemExt@anonymous@getPassword@@()@main.cpp@455@definition@F??T0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@loadDataFromFile@@(const string &)@
+CCCC_MemExt@anonymous@loadDataFromFile@@(const string &)@main.cpp@1158@definition@F??T0@LOC:64 COM:0 MVG:8@0@d@
+CCCC_Member@anonymous@login@@()@
+CCCC_MemExt@anonymous@login@@()@main.cpp@460@definition@F??T0@LOC:33 COM:0 MVG:7@0@d@
+CCCC_Member@anonymous@manageCLO@@()@
+CCCC_MemExt@anonymous@manageCLO@@()@main.cpp@928@definition@F??T0@LOC:165 COM:0 MVG:25@0@d@
+CCCC_Member@anonymous@manageCourse@@()@
+CCCC_MemExt@anonymous@manageCourse@@()@main.cpp@775@definition@F??T0@LOC:149 COM:0 MVG:22@0@d@
+CCCC_Member@anonymous@managePLO@@()@
+CCCC_MemExt@anonymous@managePLO@@()@main.cpp@614@definition@F??T0@LOC:153 COM:0 MVG:23@0@d@
+CCCC_Member@anonymous@manageProgram@@()@
+CCCC_MemExt@anonymous@manageProgram@@()@main.cpp@502@definition@F??T0@LOC:105 COM:0 MVG:16@0@d@
+CCCC_Member@anonymous@saveToFile@@(const string &,const string &)@
+CCCC_MemExt@anonymous@saveToFile@@(const string &,const string &)@main.cpp@1137@definition@F??T0@LOC:20 COM:0 MVG:3@0@d@
+CCCC_Member@anonymous@~AcademicOfficer@@()@
+CCCC_MemExt@anonymous@~AcademicOfficer@@()@main.cpp@1239@definition@F??T0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_UseRel@Program@AcademicOfficer@
+CCCC_UseExt@Program@AcademicOfficer@main.cpp@428@has by reference@F??T2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@User@AcademicOfficer@
+CCCC_UseExt@User@AcademicOfficer@main.cpp@423@inheritance@F??T0@*@0@I@
+CCCC_UseRel@string@AcademicOfficer@
+CCCC_UseExt@string@AcademicOfficer@main.cpp@426@has by value@F??T2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@AcademicOfficer@main.cpp@427@has by value@F??T2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@AcademicOfficer@main.cpp@430@pass by reference@F??T2@*@2@p@
+CCCC_UseExt@string@AcademicOfficer@main.cpp@445@pass by reference@F??T0@*@0@p@
+CCCC_UseRel@Evaluation@CLO@
+CCCC_UseExt@Evaluation@CLO@main.cpp@25@has by reference@????2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@Evaluation@CLO@main.cpp@53@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Topic@CLO@
+CCCC_UseExt@Topic@CLO@main.cpp@23@has by reference@????2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@Topic@CLO@main.cpp@41@pass by reference@F???0@*@0@p@
+CCCC_UseRel@string@CLO@
+CCCC_UseExt@string@CLO@main.cpp@22@has by value@????2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@CLO@main.cpp@29@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@CLO@main.cpp@36@pass by value@F???0@*@0@P@
+CCCC_UseRel@CLO@Course@
+CCCC_UseExt@CLO@Course@main.cpp@107@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@CLO@Course@main.cpp@133@pass by reference@F???0@*@0@p@
+CCCC_UseRel@ofstream@Course@
+CCCC_UseExt@ofstream@Course@main.cpp@197@pass by reference@F???0@*@0@p@
+CCCC_UseRel@string@Course@
+CCCC_UseExt@string@Course@main.cpp@105@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@Course@main.cpp@106@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@Course@main.cpp@111@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@Course@main.cpp@111@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@Course@main.cpp@113@pass by reference@F???0@*@0@p@
+CCCC_UseExt@string@Course@main.cpp@118@pass by reference@F???0@*@0@p@
+CCCC_UseExt@string@Course@main.cpp@158@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Course@PLO@
+CCCC_UseExt@Course@PLO@main.cpp@218@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@Course@PLO@main.cpp@234@pass by reference@F???0@*@0@p@
+CCCC_UseRel@ofstream@PLO@
+CCCC_UseExt@ofstream@PLO@main.cpp@297@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@PLO@main.cpp@297@pass by reference@F???0@*@0@p@
+CCCC_UseRel@string@PLO@
+CCCC_UseExt@string@PLO@main.cpp@217@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@PLO@main.cpp@222@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@PLO@main.cpp@224@pass by reference@F???0@*@0@p@
+CCCC_UseExt@string@PLO@main.cpp@277@pass by reference@F???0@*@0@p@
+CCCC_UseExt@string@PLO@main.cpp@277@pass by reference@F???0@*@0@p@
+CCCC_UseRel@PLO@Program@
+CCCC_UseExt@PLO@Program@main.cpp@327@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@PLO@Program@main.cpp@342@pass by reference@F???0@*@0@p@
+CCCC_UseRel@ofstream@Program@
+CCCC_UseExt@ofstream@Program@main.cpp@390@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@Program@main.cpp@390@pass by reference@F???0@*@0@p@
+CCCC_UseRel@string@Program@
+CCCC_UseExt@string@Program@main.cpp@325@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@Program@main.cpp@326@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@string@Program@main.cpp@331@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@Program@main.cpp@331@pass by value@F???0@*@0@P@
